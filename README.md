@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **movies website**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Next.js**
 
 - 📫 How to reach me **arturvoskanyan.dev@gmail.com**
 
